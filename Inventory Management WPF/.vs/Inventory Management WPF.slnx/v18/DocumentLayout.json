@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\CV\\Csharp\\Inventory Management WPF\\Inventory-Management-WPF\\Inventory Management WPF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43A32D9E-7FD4-4200-AB54-49B6917E0594}|Inventory Management WPF.csproj|c:\\cv\\csharp\\inventory management wpf\\inventory-management-wpf\\inventory management wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{43A32D9E-7FD4-4200-AB54-49B6917E0594}|Inventory Management WPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{31ECB3E3-1A69-E15B-725F-81BD0AFBE212}|Inventory Management WPF.csproj|c:\\cv\\csharp\\inventory management wpf\\inventory-management-wpf\\inventory management wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31ECB3E3-1A69-E15B-725F-81BD0AFBE212}|Inventory Management WPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43A32D9E-7FD4-4200-AB54-49B6917E0594}|Inventory Management WPF.csproj|c:\\cv\\csharp\\inventory management wpf\\inventory-management-wpf\\inventory management wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43A32D9E-7FD4-4200-AB54-49B6917E0594}|Inventory Management WPF.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31ECB3E3-1A69-E15B-725F-81BD0AFBE212}|Inventory Management WPF.csproj|c:\\cv\\csharp\\inventory management wpf\\inventory-management-wpf\\inventory management wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31ECB3E3-1A69-E15B-725F-81BD0AFBE212}|Inventory Management WPF.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,12 +90,7 @@
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T13:11:24.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2026-06-11T13:11:24.452Z"
             }
           ]
         }
